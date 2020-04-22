@@ -1,0 +1,50 @@
+{
+	"oTextGDDM": {
+		"context": "",
+		"bys": [
+			"xpath:////*[contains(@resource-id, 'snr_account_type')]/android.widget.TextView"
+		]
+	},
+	"oEditCode": {
+		"context": "",
+		"bys": [
+			"id://edt_stockcode"
+		]
+	},
+	"oTextWTFS": {
+		"context": "",
+		"bys": [
+			"UIAUTOMATOR://new UiSelector().className(\"android.widget.TextView\").resourceId(\"android:id/text1\").instance(1)"
+		]
+	},
+	"oMenuWTFS": {
+		"context": "",
+		"bys": [
+			"UIAUTOMATOR://new UiSelector().className(\"android.widget.CheckedTextView\").text(\"$\")"
+		]
+	},
+	"oEditPrice": {
+		"context": "",
+		"bys": [
+			"id://bought_jine"
+		]
+	},
+	"oEditNum": {
+		"context": "",
+		"bys": [
+			"id://edt_mrsl"
+		]
+	},
+	"oBtnOK": {
+		"context": "",
+		"bys": [
+			"id://btn_ok"
+		]
+	},
+	"oBtnRefresh": {
+		"context": "",
+		"bys": [
+			"id://btn_title_refresh"
+		]
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"oBtnRZRQ": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='融资融券']"
+		]
+	},
+	"oBtnDBPMR": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='担保品买入　　']"
+		]
+	},
+	"oBtnDBPMC": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='担保品卖出　　']"
+		]
+	},
+	"oBtnRZMR": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='融资买入　　　']"
+		]
+	},
+	"oBtnRQMC": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='融券卖出　　　']"
+		]
+	},
+	"oBtnHKHQ": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='还券还款　　　']"
+		]
+	},
+	"oBtnDBPHZ": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='担保品划转　　']"
+		]
+	},
+	"oBtnYZZZ": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='银证转账　　　']"
+		]
+	},
+	"oBtnYHZZQ": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='1.银行转证券']"
+		]
+	},
+	"oBtnZQZYH": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='2.证券转银行']"
+		]
+	}
+}

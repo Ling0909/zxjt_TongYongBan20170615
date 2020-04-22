@@ -1,0 +1,32 @@
+{
+	"oBtnJJ": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='掌上基金']"
+		]
+	},
+	"oBtnRG": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='基金认购　　']"
+		]
+	},
+	"oBtnSG": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='基金申购　　']"
+		]
+	},
+	"oBtnSH": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='基金赎回　　']"
+		]
+	},
+	"oBtnZH": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='基金转换　　']"
+		]
+	}
+}

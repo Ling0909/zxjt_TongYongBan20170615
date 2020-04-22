@@ -1,0 +1,32 @@
+{
+	"oEditUsername": {
+		"context": "",
+		"bys": [
+			"id://edt_account"
+		]
+	},
+	"oEditPassword": {
+		"context": "",
+		"bys": [
+			"id://edt_pwd"
+		]
+	},
+	"oEditCheckCode": {
+		"context": "",
+		"bys": [
+			"id://edt_valicode"
+		]
+	},
+	"oTextCheckCode": {
+		"context": "",
+		"bys": [
+			"id://txt_valicode"
+		]
+	},
+	"oBtnLogin": {
+		"context": "",
+		"bys": [
+			"id://btn_title_right"
+		]
+	}
+}

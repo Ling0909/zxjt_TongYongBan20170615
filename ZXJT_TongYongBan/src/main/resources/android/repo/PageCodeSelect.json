@@ -1,0 +1,20 @@
+{
+	"oEditSearch": {
+		"context": "",
+		"bys": [
+			"id://et_search"
+		]
+	},
+	"oItemCode": {
+		"context": "",
+		"bys": [
+			"id://tv_stockcode"
+		]
+	},
+	"oBtnCancel": {
+		"context": "",
+		"bys": [
+			"id://btn_cancel"
+		]
+	}
+}

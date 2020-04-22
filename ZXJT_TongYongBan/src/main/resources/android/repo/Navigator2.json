@@ -1,0 +1,32 @@
+{
+	"oBtnGGT": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='港股通']"
+		]
+	},
+	"oBtnMR": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='买入委托']"
+		]
+	},
+	"oBtnMC": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='卖出委托']"
+		]
+	},
+	"oBtnGSXW": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='公司行为']"
+		]
+	},
+	"oBtnTPSB": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='投票申报']"
+		]
+	}
+}

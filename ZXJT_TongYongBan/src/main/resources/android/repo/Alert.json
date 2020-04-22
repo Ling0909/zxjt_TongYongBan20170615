@@ -1,0 +1,20 @@
+{
+	"oTextMsg": {
+		"context": "",
+		"bys": [
+			"id://android:id/message"
+		]
+	},
+	"oBtnCancel": {
+		"context": "",
+		"bys": [
+			"UIAUTOMATOR://new UiSelector().resourceIdMatches(\"android:id/button\\d\").text(\"取消\")"
+		]
+	},
+	"oBtnOK": {
+		"context": "",
+		"bys": [
+			"UIAUTOMATOR://new UiSelector().resourceIdMatches(\"android:id/button\\d\").textMatches(\"(确定|完成)\")"
+		]
+	}
+}

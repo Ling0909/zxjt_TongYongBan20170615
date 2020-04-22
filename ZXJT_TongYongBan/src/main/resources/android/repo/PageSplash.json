@@ -1,0 +1,14 @@
+{
+	"oSplash": {
+		"context": "",
+		"bys": [
+			"id://kds_ll_init"
+		]
+	},
+	"oBtnNoticeCancel": {
+		"context": "",
+		"bys": [
+			"UIAUTOMATOR://new UiSelector().text(\"今日不再提醒\")"
+		]
+	}
+}

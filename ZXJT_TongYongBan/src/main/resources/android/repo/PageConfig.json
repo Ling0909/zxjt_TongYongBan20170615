@@ -1,0 +1,26 @@
+{
+	"oBtnSearch": {
+		"context": "",
+		"bys": [
+			"id://btn_title_search"
+		]
+	},
+	"oEditSearch": {
+		"context": "",
+		"bys": [
+			"id://et_search"
+		]
+	},
+	"oEditJY": {
+		"context": "",
+		"bys": [
+			"id://edt_jydz"
+		]
+	},
+	"oBtnOK": {
+		"context": "",
+		"bys": [
+			"id://btn_ok"
+		]
+	}
+}

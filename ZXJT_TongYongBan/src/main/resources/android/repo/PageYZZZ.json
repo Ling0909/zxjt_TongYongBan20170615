@@ -1,0 +1,50 @@
+{
+	"oBtnChoseOutAccount": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='转出账户:']/following-sibling::android.widget.Button[1]"
+		]
+	},
+	"oBtnOutAccount": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.CheckedTextView[@text='$']"
+		]
+	},
+	"oBtnChoseInAccount": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='转入账户:' or @text='转人账户:']/following-sibling::android.widget.Button[1]"
+		]
+	},
+	"oBtnInAccount": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.CheckedTextView[@text='$']"
+		]
+	},
+	"oEditZJPwd": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.EditText[@resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_zzy_zjMM' or @resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_yzz_zjMM']"
+		]
+	},
+	"oEditYHPwd": {
+		"context": "",
+		"bys": [
+			"id://jy_yzzz_yzz_bankMM"
+		]
+	},
+	"oEditMoney": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.EditText[@resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_yzz_zzje' or @resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_zzy_zzje']"
+		]
+	},
+	"oBtnChangeSure": {
+		"context": "",
+		"bys": [
+			"id://btn_ok"
+		]
+	}
+}

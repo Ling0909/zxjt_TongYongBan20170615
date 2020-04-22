@@ -1,0 +1,38 @@
+{
+	"oBtnChoseTransfer": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.TextView[@text='转账方向:']/following-sibling::android.widget.Button[1]"
+		]
+	},
+	"TransferAccount": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.CheckedTextView[@text='$']"
+		]
+	},
+	"oEditZJPwd": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.EditText[@resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_zzy_zjMM' or @resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_yzz_zjMM']"
+		]
+	},
+	"oEditYHPwd": {
+		"context": "",
+		"bys": [
+			"id://jy_yzzz_yzz_bankMM"
+		]
+	},
+	"oEditMoney": {
+		"context": "",
+		"bys": [
+			"xpath:////android.widget.EditText[@resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_yzz_zzje' or @resource-id='zhongxinjiantou.szkingdom.android.phone:id/jy_yzzz_zzy_zzje']"
+		]
+	},
+	"oBtnChangeSure": {
+		"context": "",
+		"bys": [
+			"id://btn_ok"
+		]
+	}
+}

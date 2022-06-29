@@ -17,7 +17,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<light.version>1.0.0</light.version>
 		<testng.version>6.9.10</testng.version>
-		<poi.version>3.14</poi.version>
+		<poi.version>4.1.1</poi.version>
 	</properties>
 
 	<dependencies>
